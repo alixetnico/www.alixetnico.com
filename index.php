@@ -6,8 +6,6 @@
     <meta name="description" content="Alix et Nico [...]. “Nous n'héritons pas de la terre de nos parents, nous l'empruntons à nos enfants.” #alixetnico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="873PgM1rLvDdWmxEgx7DjkJEL2PwZ0NCCaE6vZYc0h4">
-    <link rel="shortcut icon" href="https://img.alixetnico.com/&b.ico" type="image/x-icon">
-    <link rel="icon" href="https://img.alixetnico.com/&b.png" type="image/png">
     <link rel="canonical" href="https://www.alixetnico.com/">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@alixetnico">
@@ -15,6 +13,10 @@
     <meta property="og:image" content="https://img.alixetnico.com/card.png">
     <meta property="og:type" content="Organization">
     <meta property="og:url" content="https://www.alixetnico.com/">
+    <meta name="msapplication-TileImage" content="https://blog.alixetnico.com/wp-content/uploads/2019/11/cropped-b-scaled-270x270.png">
+    <link rel="icon" href="https://blog.alixetnico.com/wp-content/uploads/2019/11/cropped-b-scaled-32x32.png" sizes="32x32">
+    <link rel="icon" href="https://blog.alixetnico.com/wp-content/uploads/2019/11/cropped-b-scaled-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="https://blog.alixetnico.com/wp-content/uploads/2019/11/cropped-b-scaled-180x180.png">
     <script type="application/ld+json">
     {
     "@context" : "http://schema.org",
@@ -72,7 +74,7 @@
        <p><a href="https://pdf.alixetnico.com/mentions-legales">Mentions légales</a> ~ <a href="https://img.alixetnico.com/logo/">Logo</a> ~ <a href="https://webmail.alixetnico.com/">Webmail</a></p>
        <hr>
        <p>/<a href="/sitemap.xml">sitemap.xml</a> ~ /<a href="/robots.txt">robots.txt</a> ~ <a href="https://www.google.com/">google.com</a> ~ <a href="https://github.com/alixetnico">GitHub</a> ~ <a href="https://developers.google.com/speed/pagespeed/insights/?hl=fr&url=https%3A%2F%2Fwww.alixetnico.com%2F">PageSpeed</a> ~ <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.alixetnico.com%2F">HTML</a> ~ <a href="https://jigsaw.w3.org/css-validator/check/referer">CSS</a> ~ <a href="https://validator.ampproject.org/#url=https%3A%2F%2Fwww.alixetnico.com%2F">AMP<amp-img src="https://img.alixetnico.com/amp.png" alt="AMP" width="12" height="12"></a></p>
-       <p>© 2019/2020 Alix & Nico ®</p>
+       <p>© 2019 Alix & Nico ®</p>
        <p><a href="https://gravatar.com/alixetnico"><amp-img src="https://img.alixetnico.com/logo/blanc.png" alt="A&N" width="44" height="44"></a></p>
   </body>
 </html>
